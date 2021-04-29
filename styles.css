@@ -5,6 +5,18 @@
 .or {
  	background-color: #ff9966;   
 }
+.yellow {
+ 	background-color: yellow;   
+}
+.green {
+ 	background-color: lightgreen;   
+}
+.blue {
+ 	background-color: blue;   
+}
+.random {
+ 	background-color: #ff86f4;   
+}
 .grad {
   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
